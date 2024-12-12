@@ -1,0 +1,2 @@
+   in gitlab put gitlab yml and all file and rename after uploading 
+      .gitlab-ci.yml
